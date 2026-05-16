@@ -33,11 +33,10 @@ Developed an end-to-end Sales Analytics project using Excel, SQL Server, and Pow
 ## Dashboard Preview
 
 ### Power BI Dashboard
-![Power BI Dashboard](sales Power BI dashboard.png)
+![Power BI Dashboard](dashboard.png)
 
 ### Excel Dashboard
-![Excel Dashboard](sales excel dashboard.png)
-
+![Excel Dashboard](excel_dashboard.png)
 ## Key Insights
 - West region generated highest sales.
 - Technology category produced highest profit.
