@@ -53,15 +53,11 @@ The project focuses on analyzing sales performance, profit trends, customer segm
 
 ---
 
-## Dashboard Preview
-
 ### Power BI Dashboard
-![Power BI Dashboard](sales Power BI dashboard.PNG)
+![Power BI Dashboard](dashboard.png)
 
 ### Excel Dashboard
-![Excel Dashboard](sales excel dashboard.PNG)
-
-
+![Excel Dashboard](excel_dashboard.png)
 
 ---
 
